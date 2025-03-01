@@ -8,6 +8,7 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 - 📅 **Age Calculator** – Calculate your exact age based on your birthdate.  
 - 📌 **Notes App** – A simple notes app that automatically saves your notes.  
 - 📷 **QR Code Generator** – Generate QR codes instantly from any text or link.  
+- 🔔 **Toast Notifications** – Show success, error, and invalid message notifications.  
 
 ## 🔧 Technologies Used  
 - **HTML, CSS, JavaScript**  
