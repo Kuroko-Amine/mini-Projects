@@ -9,6 +9,7 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 - 📌 **Notes App** – A simple notes app that automatically saves your notes.  
 - 📷 **QR Code Generator** – Generate QR codes instantly from any text or link.  
 - 🔔 **Toast Notifications** – Show success, error, and invalid message notifications.  
+- 🎵 **Music App** – A simple music player featuring the song *Telepatía*.  
 
 ## 🔧 Technologies Used  
 - **HTML, CSS, JavaScript**  
@@ -17,3 +18,4 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 1. Clone the repository:  
    ```sh
    git clone https://github.com/Kuroko-Amine/mini-Projects.git
+   ```
