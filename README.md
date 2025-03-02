@@ -10,6 +10,7 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 - 📷 **QR Code Generator** – Generate QR codes instantly from any text or link.  
 - 🔔 **Toast Notifications** – Show success, error, and invalid message notifications.  
 - 🎵 **Music App** – A simple music player featuring the song *Telepatía*.  
+- 🎮 **Quiz Jeu** – A fun quiz game with questions about popular video games.  
 
 ## 🔧 Technologies Used  
 - **HTML, CSS, JavaScript**  
