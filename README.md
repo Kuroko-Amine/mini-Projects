@@ -11,6 +11,7 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 - 🔔 **Toast Notifications** – Show success, error, and invalid message notifications.  
 - 🎵 **Music App** – A simple music player featuring the song *Telepatía*.  
 - 🎮 **Quiz Jeu** – A fun quiz game with questions about popular video games.  
+- ⏳ **Simple Timer** – A countdown timer with start, pause, and reset options.  
 
 ## 🔧 Technologies Used  
 - **HTML, CSS, JavaScript**  
@@ -19,4 +20,4 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 1. Clone the repository:  
    ```sh
    git clone https://github.com/Kuroko-Amine/mini-Projects.git
-   ```
+   ``` 
