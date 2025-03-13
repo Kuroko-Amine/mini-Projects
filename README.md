@@ -12,6 +12,8 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 - 🎵 **Music App** – A simple music player featuring the song *Telepatía*.  
 - 🎮 **Quiz Jeu** – A fun quiz game with questions about popular video games.  
 - ⏳ **Simple Timer** – A countdown timer with start, pause, and reset options.  
+- 🖩 **Basic Calculator** – Perform basic arithmetic operations (addition, subtraction, multiplication, division).  
+- 🔒 **Hide/Show Password** – Toggle password visibility in input fields.  
 
 ## 🔧 Technologies Used  
 - **HTML, CSS, JavaScript**  
@@ -20,4 +22,3 @@ A collection of small projects created while learning **HTML, CSS, and JavaScrip
 1. Clone the repository:  
    ```sh
    git clone https://github.com/Kuroko-Amine/mini-Projects.git
-   ``` 
